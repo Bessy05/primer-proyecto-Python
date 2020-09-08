@@ -1,6 +1,6 @@
 """
 Importante!
-Antes de ejecutar preparar entorno intalar librerias:
+Para preparar entorno intalar librerias:
 pip install numpy
 pip install matplotlib
 """
